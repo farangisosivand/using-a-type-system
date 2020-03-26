@@ -18,3 +18,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+a {
+  color: currentColor;
+}
+
+.card {
+  overflow: hidden;
+
+  background-color: #d9ccaa;
+  border-radius: 6px;
+}
